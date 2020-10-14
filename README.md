@@ -2,12 +2,15 @@
 RABASAR denoising performance
 
 Noisy image:
+
 ![Test Image 1](NoisyImageAsc.png)
 
 Denoised image:
+
 ![Test Image 2](denoise.png)
 
 Temporal average image:
+
 ![Test Image 3](ArithmeticMeanAsc.png)
 
 
